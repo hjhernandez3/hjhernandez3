@@ -33,6 +33,10 @@ Developed an end-to-end data pipeline for the City of El Paso Department of Publ
 
 Title: [Visualizing Network Graph Comparisons](https://hjhernandez.shinyapps.io/DataVis/)
 
+## Other websites
+
+[Link to Data Visualizations Blog](https://hjhernandezdataviz.blogspot.com/)
+
 Developed an R Shiny app that depicts a series of network graphs showcasing the changes that occurred before and after a two-year research training program. In particular, the network models depict latent structures of identity, self-efficacy, and self-concepts for students undergoing biomedical research training.
 
 
