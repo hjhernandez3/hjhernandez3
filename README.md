@@ -38,6 +38,7 @@ Developed an R Shiny app that depicts a series of network graphs showcasing the 
 ## Other websites
 
 [Link to Data Visualizations Blog](https://hjhernandezdataviz.blogspot.com/)
+
 [Visualizations By Josefina](https://visualizationsbyjosefina.wordpress.com)
 
 <!---
