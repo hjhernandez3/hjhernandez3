@@ -36,6 +36,7 @@ Title: [Visualizing Network Graph Comparisons](https://hjhernandez.shinyapps.io/
 Developed an R Shiny app that depicts a series of network graphs showcasing the changes that occurred before and after a two-year research training program. In particular, the network models depict latent structures of identity, self-efficacy, and self-concepts for students undergoing biomedical research training.
 
 ## Other websites
+[LinkedIn](https://www.linkedin.com/in/hortencia-hernandez)
 
 [Link to Data Visualizations Blog](https://hjhernandezdataviz.blogspot.com/)
 
