@@ -1,4 +1,4 @@
-# Hortencia J. Hernandez
+# Hortencia J. Hernandez, Ph.D.
 
 *Ph.D. in Data Science* | *Data Scientist* | *Statistician*
 
