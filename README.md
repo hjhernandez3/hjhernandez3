@@ -13,6 +13,8 @@ In addition to academic work, she performs with UTEP's musical ensembles includi
 
 For inquiries or collaborations, she can be reached at hjhernandez2016@gmail.com.
 
+orcid: [0009-0009-0284-8703](https://orcid.org/0009-0009-0284-8703)
+
 ## Conferences
 **SIAM Conference on Mathematics of Data Science** - *Atlanta, GA*
 
