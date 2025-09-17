@@ -9,7 +9,14 @@ Her research interests focus on graph theory and social network modeling with a 
 
 Her technical skill set includes R, Python, SQL, MATLAB, C++/C#, and Go. She has experience developing data visualization projects using the ggplot2 library, RShiny applications, and Power BI, among others.
 
-In addition to academic work, she performed with UTEP's musical ensembles including Mariachi Los Mineros and the UTEP Flute Choir. She previously served as a Ph.D. Research Associate at UTEP and a Math/Statistics Tutor at El Paso Community College. Currently open to data science roles and research collaborations in machine learning, network science, and data visualization
+In addition to research, she performed with UTEP's musical ensembles including Mariachi Los Mineros and the UTEP Flute Choir. Music has shaped her approach to collaboration, creativity, and communicating with diverse audiences.
+
+
+**Currently open to:**
+
+- Data science / machine learning roles
+
+- Research collaborations in network science, generative AI, personalization, and data visualization
 
 For inquiries or collaborations, she can be reached at hjhernandez2016@gmail.com.
 
