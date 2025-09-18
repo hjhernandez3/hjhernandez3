@@ -12,13 +12,13 @@ Her technical skill set includes R, Python, SQL, MATLAB, C++/C#, and Go. She has
 In addition to research, she performed with UTEP's musical ensembles including Mariachi Los Mineros and the UTEP Flute Choir. Music has shaped her approach to collaboration, creativity, and communicating with diverse audiences.
 
 
-**Currently open to:**
+**Currently open, but not limited, to:**
 
 - Data science / machine learning roles
 
 - Research collaborations in network science, generative AI, personalization, and data visualization
 
-For inquiries or collaborations, she can be reached at hjhernandez2016@gmail.com.
+For any inquiries or collaborations, she can be reached at hjhernandez2016@gmail.com
 
 orcid: [0009-0009-0284-8703](https://orcid.org/0009-0009-0284-8703)
 
